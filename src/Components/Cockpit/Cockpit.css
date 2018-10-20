@@ -25,7 +25,8 @@
 }
 
 .Cockpit button.Red {
-    color: red;
+    background-color: red;
+    color: white;
 }
 
 .Cockpit button.Bold {
